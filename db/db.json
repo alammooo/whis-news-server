@@ -1,0 +1,1286 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Gravitia",
+      "email": "g@mail.com",
+      "password": "12345",
+      "role": "user",
+      "phoneNumber": "08257565878",
+      "address": "Semarang, Jawa Tengah, Indonesia"
+    },
+    {
+      "id": 2,
+      "username": "Adminia",
+      "email": "a@mail.com",
+      "password": "12345",
+      "role": "admin",
+      "phoneNumber": "08257525878",
+      "address": "Solo, Jawa Tengah, Indonesia"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Sport"
+    },
+    {
+      "id": 2,
+      "name": "Politics"
+    },
+    {
+      "id": 3,
+      "name": "Technology"
+    },
+    {
+      "id": 4,
+      "name": "Lifestyle"
+    },
+    {
+      "id": 5,
+      "name": "Finance"
+    },
+    {
+      "id": 6,
+      "name": "Health"
+    },
+    {
+      "name": "Economy",
+      "id": 7
+    }
+  ],
+  "tags": [
+    {
+      "postId": "1",
+      "name": "todayNews"
+    }
+  ],
+  "posts": [
+    {
+      "id": 5,
+      "name": "MacRumors",
+      "author": "Sami Fathi",
+      "title": "YouTube's Apple TV App is Crashing and Causing Issues For Users After Latest Update",
+      "description": "YouTube's Apple TV app is crashing and causing some issues for users when they try to exit out of the app, according to user reports online.\n\n\n\n\n\nOn Twitter and Reddit, users report that when trying to exit out of the YouTube app, their ‌Apple TV‌ becomes unr…",
+      "url": "https://www.macrumors.com/2022/12/12/youtube-apple-tv-app-issues/",
+      "imgUrl": "https://images.macrumors.com/t/x_WjUPLrONwx_NK7HuB3p19KKZA=/2250x/article-new/2021/09/General-YouTube-Feature-1.jpg",
+      "publishedAt": "2022-12-12T13:47:17Z",
+      "content": "YouTube's Apple TV app is crashing and causing some issues for users when they try to exit out of the app, according to user reports online.\r\nOn Twitter and Reddit, users report that when trying to e… [+2014 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "MacRumors",
+      "author": "Sami Fathi",
+      "title": "Artist Uses AI to Imagine What Steve Jobs Would Look Like If He Were Still Alive Today",
+      "description": "An image created by an Instagram creator has used artificial intelligence to produce an image showing what Steve Jobs, who died in 2011, would look like if he were still alive today.\n\n\n\n\n\nThe image, created part of the \"As If Nothing Happened\" series, shows J…",
+      "url": "https://www.macrumors.com/2022/12/12/steve-jobs-today-ai-image/",
+      "imgUrl": "https://images.macrumors.com/t/vLp6X6xXczWM9wYJKxzV-tyUwQM=/1600x/article-new/2022/12/steve-jobs-ai-image.jpg",
+      "publishedAt": "2022-12-12T11:13:40Z",
+      "content": "An image created by an Instagram creator has used artificial intelligence to produce an image showing what Steve Jobs, who died in 2011, would look like if he were still alive today.\r\nThe image, crea… [+520 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "MacRumors",
+      "author": "Mitchel Broussard",
+      "title": "Deals: Anker's New Gold Box Sale on Amazon Has Up to 50% Off Charging Accessories",
+      "description": "Anker is back today with a new Gold Box deal on Amazon, offering up to 50 percent off a collection of its most popular charging accessories. In total these deals include savings on wireless chargers, USB-C wall chargers, portable batteries, MagSafe-compatible…",
+      "url": "https://www.macrumors.com/2022/12/12/deals-ankers-new-gold-box-sale-2/",
+      "imgUrl": "https://images.macrumors.com/t/8oBV4rfg_CS5_EbmI68wJF2m4cE=/2000x/article-new/2022/12/anker-snow.jpg",
+      "publishedAt": "2022-12-12T16:27:52Z",
+      "content": "Anker is back today with a new Gold Box deal on Amazon, offering up to 50 percent off a collection of its most popular charging accessories. In total these deals include savings on wireless chargers,… [+1191 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider"
+      },
+      "name": "Business Insider",
+      "author": "htan@insider.com (Huileng Tan)",
+      "title": "India is trying to become the new factory of the world, but it could take more than a global pandemic to unseat China from its 40-year reign",
+      "description": "China has managed to build up a value chain so extensive that almost everything required to make a product can be sourced and acquired in the country.",
+      "url": "https://www.businessinsider.com/china-india-supply-chain-covid-sanctions-manufacturers-relocating-tariffs-options-2022-12",
+      "imgUrl": "https://i.insider.com/638efb7e2cd2de0018d045ef?width=1200&format=jpeg",
+      "publishedAt": "2022-12-12T00:45:00Z",
+      "content": "China's zero-COVID policy may just be doing what Donald Trump didn't manage to fully achieve during his term as president shifting global supply chains away from China for the first time in 40 years.… [+5677 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider"
+      },
+      "name": "Business Insider",
+      "author": "george@bespokeinvest.com (George Pearkes)",
+      "title": "It took a full year, multiple calls to the dealership, and an angry tweet at Ford's CEO, to finally get my all-electric pickup truck delivered",
+      "description": "Forget SpaceX rockets and AI chatbots — the invention that's going to reshape our world is the all-electric pickup truck.",
+      "url": "https://www.businessinsider.com/ford-f-150-lightning-electric-pickup-truck-delays-engine-2022-12",
+      "imgUrl": "https://i.insider.com/6393b31aa3bebb0018b3f07f?width=1200&format=jpeg",
+      "publishedAt": "2022-12-12T10:04:00Z",
+      "content": "The gas station has been a fixture of our roads and neighborhoods since the internal-combustion-engine car took hold in the early 20th century.\r\nThese multicolored, brightly lit shrines to car cultur… [+12163 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Hipertextual",
+      "author": "Rubén Chicharro",
+      "title": "Apple parece que incumplirá su promesa de lanzar su app de música clásica este año",
+      "description": "A Apple se le acaba el tiempo para poder cumplir una de las promesas que hizo en 2021 tras la compra de Primephonic. La compañía, en concreto, confirmó en 2021 que lanzaría una app independiente de música clásica que llegaría “el año que viene” (es decir, est…",
+      "url": "http://hipertextual.com/2022/12/apple-incumple-promesa-lanzamiento-app-independiente-musica-clasica",
+      "imgUrl": "https://imgs.hipertextual.com/wp-content/uploads/2021/09/apple-music-logo-2021-9to5mac.jpg",
+      "publishedAt": "2022-12-12T11:57:02Z",
+      "content": "A Apple se le acaba el tiempo para poder cumplir una de las promesas que hizo en 2021 tras la compra de Primephonic. La compañía, en concreto, confirmó en 2021 que lanzaría una app independiente de m… [+2659 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Hipertextual",
+      "author": "Rubén Chicharro",
+      "title": "Los MacBook Air y iPad Pro con pantalla OLED podrían llegar en 2024",
+      "description": "Si estás pensando en comprar un Mac o un iPad con pantalla OLED, tendrás que esperar, al menos, un año más. Ross Young, CEO de Display Supply Chain Consultants y quien suele revelar información muy precisa sobre los dispositivos de Apple, ha detallado en un t…",
+      "url": "http://hipertextual.com/2022/12/macbook-air-pantalla-mini-led-2024",
+      "imgUrl": "https://imgs.hipertextual.com/wp-content/uploads/2022/07/DSC05201-scaled.jpg",
+      "publishedAt": "2022-12-12T15:26:29Z",
+      "content": "Si estás pensando en comprar un Mac o un iPad con pantalla OLED, tendrás que esperar, al menos, un año más. Ross Young, CEO de Display Supply Chain Consultants y quien suele revelar información muy p… [+2236 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Xataka.com",
+      "author": "Jose García",
+      "title": "Xiaomi Mini PC: Xiaomi ya tiene su propio Mac Mini con corazón Intel y un formato muy compacto",
+      "description": "Xiaomi no es nueva en esto de los ordenadores, mucho menos en periféricos, pero hoy la firma china se ha metido de lleno en los ordenadores de sobremesa con el lanzamiento del Xiaomi Mini PC (o Computer Mini, como parece ser su nombre traducido literalmente d…",
+      "url": "https://www.xataka.com/ordenadores/xiaomi-mini-pc-caracteristicas-precio-ficha-tecnica",
+      "imgUrl": "https://i.blogs.es/4ad251/xiaomi1/840_560.jpeg",
+      "publishedAt": "2022-12-12T10:09:00Z",
+      "content": "Xiaomi no es nueva en esto de los ordenadores, mucho menos en periféricos, pero hoy la firma china se ha metido de lleno en los ordenadores de sobremesa con el lanzamiento del Xiaomi Mini PC (o Compu… [+2903 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Xataka.com",
+      "author": "Yúbal Fernández",
+      "title": "Qué es Twitter Blue, cuánto cuesta y qué otras ventajas tiene la suscripción para verificar tu cuenta",
+      "description": "Vamos a explicar qué es Twitter Blue, cuánto cuesta y qué ganas suscribiéndote a la versión de pago de Twitter. Tras las polémicas por suplantación de identidad que surgieron en su anterior versión, hoy se vuelve a lanzar el sistema de pago por ser verificado…",
+      "url": "https://www.xataka.com/basics/que-twitter-blue-cuanto-cuesta-que-ventajas-tiene-suscripcion-para-verificar-tu-cuenta",
+      "imgUrl": "https://i.blogs.es/de7859/twitter-blue/840_560.jpeg",
+      "publishedAt": "2022-12-12T09:55:26Z",
+      "content": "Vamos a explicar qué es Twitter Blue, cuánto cuesta y qué ganas suscribiéndote a la versión de pago de Twitter. Tras las polémicas por suplantación de identidad que surgieron en su anterior versión, … [+4436 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news"
+      },
+      "name": "Fox News",
+      "author": "Kurt Knutsson, CyberGuy Report",
+      "title": "How to find your lost iPhone",
+      "description": "Kurt \"CyberGuy\" Knutsson gives a step-by-step \"Find my iPhone\" settings setup that you can do on your iPhone so you aren't scrambling when you lose your device.",
+      "url": "https://www.foxnews.com/tech/how-find-your-lost-iphone",
+      "imgUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2022/10/BCHJBDLVUBINFEZWPTXKN5N5RA.jpeg",
+      "publishedAt": "2022-12-12T14:29:30Z",
+      "content": "Recently, my mother-in-law shared a story with me about how she lost her iPhone while she and my father-in-law were away from home. She ran into a hurdle realizing she couldnt remember the password t… [+7218 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Moz.com",
+      "author": "Travis Tallent",
+      "title": "Use SEO to Fuel Your Brand's Community Flywheel",
+      "description": "The community flywheel is an approach that easily marries brand and performance marketing efforts. You don’t have to be a big-name brand to see results from this strategy. No matter how niche your audience is, by leveraging your digital assets, you can cultiv…",
+      "url": "https://moz.com/blog/build-community-through-seo",
+      "imgUrl": "https://moz.com/images/blog/banners/diversity.jpg?w=1200&h=630&q=82&auto=format&fit=clip&dm=1662748099&s=edc5e2393576736af3c7438fc895d3ed",
+      "publishedAt": "2022-12-12T08:00:00Z",
+      "content": "The author's views are entirely his or her own (excluding the unlikely event of hypnosis) and may not always reflect the views of Moz.I dont typically wear jewelry. However, when I heard a friend rav… [+15271 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Digital Trends",
+      "author": "Christine Romero-Chan",
+      "title": "iOS 17 could be amazing if Apple makes these 7 changes",
+      "description": "We expect Apple to announce iOS 17 next year during WWDC23. Here are a few things we hope to see in the next version of iOS.",
+      "url": "https://www.digitaltrends.com/mobile/apple-ios-17-features-we-want-widgets-customization/",
+      "imgUrl": "https://www.digitaltrends.com/wp-content/uploads/2022/12/iphone-14-pro-work-focus-home-screen.jpg?p=1",
+      "publishedAt": "2022-12-12T16:00:56Z",
+      "content": "Apple recently released the iPhone 14 and iPhone 14 Pro, and the latest and greatest iPhones were equipped with iOS 16. While some features that Apple announced for iOS 16 and iPadOS 16 are still mak… [+9684 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Digital Trends",
+      "author": "Trevor Mogg",
+      "title": "Twitter confirms revamped Blue pricing and features",
+      "description": "Twitter has confirmed pricing and features for its revamped Twitter Blue premium tier, with signups relaunching on Monday, December 12.",
+      "url": "https://www.digitaltrends.com/social-media/twitter-confirms-revamped-blue-pricing-and-features/",
+      "imgUrl": "https://www.digitaltrends.com/wp-content/uploads/2020/07/twitter-hack-scammers-bitcoin-shutdown-1310129.jpg?p=1",
+      "publishedAt": "2022-12-12T01:10:16Z",
+      "content": "Twitter has confirmed pricing and features for its revamped Twitter Blue premium tier, with signups relaunching on Monday, December 12.\r\nTwitter suspended Twitter Blue signups a month ago while it wo… [+2573 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "The New Yorker",
+      "author": "Matthew Klam",
+      "title": "“The Other Party,” by Matthew Klam",
+      "description": "Fiction by Matthew Klam: “Like our Labor Day block party, which featured beer pong and a spoon race, the cookie party made the world feel smaller and saner.”",
+      "url": "https://www.newyorker.com/magazine/2022/12/19/the-other-party",
+      "imgUrl": "https://media.newyorker.com/photos/638fbbadf7d7848588bd39dd/16:9/w_1280,c_limit/221219_r41542.jpg",
+      "publishedAt": "2022-12-12T11:00:00Z",
+      "content": "Oh, my God, Brendan said. Calm down, bimbo.\r\nFuck you, Brendan, Lily said. Ill punch you in the face.\r\nThe floor creaked. Brendan screamed.\r\nPunch me back, she said. Do it!\r\nBrendan said, Go away.\r\nC… [+5507 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post"
+      },
+      "name": "The Washington Post",
+      "author": "Cristiano Lima, Aaron Schaffer",
+      "title": "No one reads the terms of service. Lawmakers want to fix that with 'TLDR' bill",
+      "description": "The proposal would create a nutritional label of sorts for websites' service agreements.",
+      "url": "https://www.washingtonpost.com/politics/2022/01/13/no-one-reads-terms-service-lawmakers-want-fix-that-with-new-tldr-bill/",
+      "imgUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JVQYRUDT74I6ZITNDQQ4C2Y4SM.jpg&w=1440",
+      "publishedAt": "2022-12-12T01:17:27Z",
+      "content": "Comment on this story\r\nHappy Thursday! Below: The FCC proposes new data breach rules for telecom and the White House meets with tech leaders on cyber. First:\r\nNo one reads the terms of service. Lawma… [+8824 chars]"
+    },
+    {
+      "source": {
+        "id": "vice-news"
+      },
+      "name": "Vice News",
+      "author": "Matthew Gault, Jordan Pearson",
+      "title": "CYBER: The Invisible Workforce that Makes AI Possible",
+      "description": "AI Isn’t Artificial or Intelligent, it’s powered by underpaid workers in foreign countries.",
+      "url": "https://www.vice.com/en/article/wxnap4/cyber-the-invisible-workforce-that-makes-ai-possible",
+      "imgUrl": "https://video-images.vice.com/articles/63938f89595e72e2da4adfb1/lede/1670615024456-1670268409943-gettyimages-172033574.jpeg?image-resize-opts=Y3JvcD0wLjk5OTUwNjE3MjgzOTUwNjJ4dzoxeGg7Y2VudGVyLGNlbnRlciZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio",
+      "publishedAt": "2022-12-12T14:00:00Z",
+      "content": "We all love a good chatbot, some nice AI art, and a pleasant automated system. Artificial intelligence is here and these fancy decision trees are supposed to make our lives easier everyday without a … [+906 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "heise online",
+      "author": "Gottfried Hofmann",
+      "title": "Freie 3D-Software Blender in Version 3.4: hübsche Lichteffekte",
+      "description": "Blender 3.4 bringt eine überarbeitete Oberfläche, besseres Rendering und vereinfachten Im- und Export.",
+      "url": "https://www.heise.de/news/Freie-3D-Software-Blender-in-Version-3-4-huebsche-Lichteffekte-7366411.html",
+      "imgUrl": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/5/8/6/1/4/splash_34-2ffddd86d4640f49.jpg",
+      "publishedAt": "2022-12-12T11:23:00Z",
+      "content": "Inhaltsverzeichnis\r\nAb sofort steht Blender 3.4 für Windows, macOS und Linux kostenlos zum Download bereit. Die neue Version bringt unter anderem eine überarbeitete Oberfläche, die hilft mit komplexe… [+4608 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "9to5Mac",
+      "author": "Chance Miller",
+      "title": "Apple surprises up-and-coming musicians with Mac Studio and Studio Display ‘dream desk’ makeover [Video]",
+      "description": "Apple recently teamed up with popular YouTube creator Jonathan Morrison to pull off a special surprise for two up-and-coming creators. Apple reached out to Jonathan to ask if he wanted to surprise a creator with a dramatic overhaul to their tech setup, and th…",
+      "url": "https://9to5mac.com/2022/12/12/apple-dream-desk-suprise-makeover/",
+      "imgUrl": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/12/apple-dream-desk.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-12-12T16:18:09Z",
+      "content": "Apple recently teamed up with popular YouTube creator Jonathan Morrison to pull off a special surprise for two up-and-coming creators. Apple reached out to Jonathan to ask if he wanted to surprise a … [+1889 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "9to5Mac",
+      "author": "Chance Miller",
+      "title": "MacBook Air and iPad Pro with OLED displays still planned for 2024, report says",
+      "description": "Apple is set to introduce a trio of new products that use OLED displays in 2024. According to a new report from reliable analyst Ross Young, Apple is planning new versions of the MacBook Air, the 11-inch iPad Pro, and the 12.9-inch iPad Pro that all adopt OLE…",
+      "url": "https://9to5mac.com/2022/12/12/oled-ipad-pro-and-macbook-air-coming/",
+      "imgUrl": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/06/OLED-MacBook-Air.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-12-12T13:59:55Z",
+      "content": "Apple is set to introduce a trio of new products that use OLED displays in 2024. According to a new report from reliable analyst Ross Young, Apple is planning new versions of the MacBook Air, the 11-… [+2281 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "9to5Mac",
+      "author": "Michael Potuck",
+      "title": "Apple shares best Fitness+ workouts of 2022 alongside holiday and new Artist Spotlight series",
+      "description": "Wrapping up the year, Apple is out today with its latest chart for 2022, this time for Fitness+. Now available in the app are the best workouts from the last 12 months plus holiday workouts/meditations, and a new Artist Spotlight series featuring Bruce Spring…",
+      "url": "https://9to5mac.com/2022/12/12/apple-best-fitness-workouts-of-2022/",
+      "imgUrl": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/12/apple-fitness-best-of-2022-workouts.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-12-12T16:07:47Z",
+      "content": "Wrapping up the year, Apple is out today with its latest chart for 2022, this time for Fitness+. Now available in the app are the best workouts from the last 12 months plus holiday workouts/meditatio… [+1287 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "9to5Mac",
+      "author": "Chance Miller",
+      "title": "Most iPhone buyers don’t actually make their purchases from Apple directly, data shows",
+      "description": "New data published by analysts at CIRP offers an interesting breakdown of where most consumers in the United States actually make their iPhone purchases. While you might be led to believe that Apple Stores are where most iPhones are purchased, that’s actually…",
+      "url": "https://9to5mac.com/2022/12/12/where-do-most-people-buy-iphones/",
+      "imgUrl": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/10/iPhone-14-helped-TSMC.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-12-12T15:04:21Z",
+      "content": "New data published by analysts at CIRP offers an interesting breakdown of where most consumers in the United States actually make their iPhone purchases. While you might be led to believe that Apple … [+2401 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Android Police",
+      "author": "Manuel Vonau",
+      "title": "Android 13’s latest update comes with some hidden secrets",
+      "description": "Google is working on a lot of things under the hood",
+      "url": "https://www.androidpolice.com/android-13-qpr1-hidden-secret-features/",
+      "imgUrl": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/09/android-13-qpr1-ap-hero.jpg",
+      "publishedAt": "2022-12-12T11:28:59Z",
+      "content": "Google may not launch point updates for Android anymore, but the company is still bringing new features to the mobile platform every three months without a full version upgrade. These so-called Quart… [+4958 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Autoblog",
+      "author": "Jonathon Ramsey",
+      "title": "2023 Polaris Slingshot gets more colorful, more pricey",
+      "description": "Filed under:\n Car Buying,Motorcycle\n Continue reading 2023 Polaris Slingshot gets more colorful, more pricey\n2023 Polaris Slingshot gets more colorful, more pricey originally appeared on Autoblog on Mon, 12 Dec 2022 08:38:00 EST. Please see our terms for use …",
+      "url": "https://www.autoblog.com/2022/12/12/2023-polaris-slingshot-updates/",
+      "imgUrl": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2022/12/10130802/2023_polaris_slingshot_lineup.png",
+      "publishedAt": "2022-12-12T13:38:00Z",
+      "content": "In February of this year, Polaris introduced the Slingshot Signature Limited Edition that added a tri-tone paint scheme, bronze wheels, and cabin LED lighting. With the 2023 Slingshot lineup, the res… [+2116 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Thekitchn.com",
+      "author": "Kurt Suchman",
+      "title": "The 3 Best Budget-Friendly Bottles of Wine We Bought in 2022",
+      "description": "Number three pairs well with finger foods!\nREAD MORE...",
+      "url": "https://www.thekitchn.com/best-cheap-wines-2022-23483825",
+      "imgUrl": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/k%2FPhoto%2FLifestyle%2F2021-07-TK-Sommeliers-on-the-One-Wine-They're-Drinking-This-Summer%2FKitchn-2021-Sommelier-Summer-Wine-5",
+      "publishedAt": "2022-12-12T13:30:00Z",
+      "content": "by Kurt Suchman\r\nAs long as the world keeps turning, we’ll keep pouring out glasses of wine. Whether your mood is celebratory or melancholy, or you’re just looking for the perfect pairing for your di… [+2357 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "AppleInsider",
+      "author": "news@appleinsider.com (Christine McKee)",
+      "title": "Amazon's $89 Apple Pencil 2 deal is back, delivers by Christmas",
+      "description": "Black Friday pricing has returned on the Apple Pencil 2, with Amazon discounting the iPad Air and iPad Pro accessory to $89.The Apple Pencil 2 is on sale for $89.Compatible with Apple's current iPad Air (5th Gen), iPad mini (6th Gen) and iPad Pro models, the …",
+      "url": "https://appleinsider.com/articles/22/12/12/amazons-89-apple-pencil-2-deal-is-back-delivers-by-christmas",
+      "imgUrl": "https://photos5.appleinsider.com/gallery/51562-102123-apple-pencil-black-friday-deal-xl.jpg",
+      "publishedAt": "2022-12-12T16:25:53Z",
+      "content": "The Apple Pencil 2 is on sale for $89.\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nBlack Friday pricing has returned on the Apple Pencil 2, with Amazo… [+912 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "AppleInsider",
+      "author": "news@appleinsider.com (Andrew Orr)",
+      "title": "Eve rolling out Matter firmware update for some HomeKit products",
+      "description": "Eve has started the rollout of an optional firmware update to support Matter on Apple devices, but Homekit-only users aren't being left behind.Eve EnergyPeople who have Eve Energy, Eve Door & Window, and Eve Motion smart home products will see the update via …",
+      "url": "https://appleinsider.com/articles/22/12/12/eve-rolling-out-matter-firmware-update-for-some-homekit-products",
+      "imgUrl": "https://photos5.appleinsider.com/gallery/51901-102944-eve-energy-xl.jpg",
+      "publishedAt": "2022-12-12T15:46:05Z",
+      "content": "Eve Energy\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nEve has started the rollout of an optional firmware update to support Matter on Apple devices, … [+1773 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "AppleInsider",
+      "author": "news@appleinsider.com (Malcolm Owen)",
+      "title": "SNL riffs on 'A Christmas Carol' & Apple Pay in bloody holiday skit",
+      "description": "NBC's \"Saturday Night Live\" used Apple Pay as the punchline to a sketch that turned the concluding scene from \"A Christmas Carol\" into a bloodbath.SNL's 'A Christmas Carol' featuring Apple PaySaturday's broadcast of \"SNL\" included a lengthy sketch featuring j…",
+      "url": "https://appleinsider.com/articles/22/12/12/snl-riffs-on-a-christmas-carol-apple-pay-in-bloody-holiday-skit",
+      "imgUrl": "https://photos5.appleinsider.com/gallery/51898-102941-scrooge-apple-pay-xl.jpg",
+      "publishedAt": "2022-12-12T12:44:48Z",
+      "content": "SNL's 'A Christmas Carol' featuring Apple Pay\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nNBC's \"Saturday Night Live\" used Apple Pay as the punchline … [+1869 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "AppleInsider",
+      "author": "news@appleinsider.com (Wesley Hilliard)",
+      "title": "Tim Cook and Greg Joswiak visit Kumamoto Japan",
+      "description": "Apple CEO Tim Cook and SVP of Marketing Greg Joswiak took a trip to the Prefectural University of Kumamoto, Japan, to visit students and landmarks.Apple CEO Tim Cook outside Kumamoto CastleCook and other Apple executives tend to go on PR tours of different co…",
+      "url": "https://appleinsider.com/articles/22/12/12/tim-cook-and-greg-joswiak-visit-kumamoto-japan",
+      "imgUrl": "https://photos5.appleinsider.com/gallery/51899-102943-Cook-Japan-xl.jpg",
+      "publishedAt": "2022-12-12T14:27:04Z",
+      "content": "Apple CEO Tim Cook outside Kumamoto Castle\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nApple CEO Tim Cook and SVP of Marketing Greg Joswiak took a tri… [+1353 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "AppleInsider",
+      "author": "news@appleinsider.com (Malcolm Owen)",
+      "title": "Apple looking at giant iPhone expansion in India at both retail & manufacturing",
+      "description": "Apple is planning expansion in India in both its retail and production arms, reports on Monday claim, including 100 new franchise stores, and a tripling of iPhone manufacturing in the next two years.Mumbai, IndiaApple has, for some time, considered and planne…",
+      "url": "https://appleinsider.com/articles/22/12/12/apple-looking-at-giant-iphone-expansion-in-india-at-both-retail-manufacturing",
+      "imgUrl": "https://photos5.appleinsider.com/gallery/51897-102940-50774-100235-50489-99331-18914-18533-india-mumbai-xl-xl-xl-xl.jpg",
+      "publishedAt": "2022-12-12T12:07:04Z",
+      "content": "Mumbai, India\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nApple is planning expansion in India in both its retail and production arms, reports on Mond… [+2200 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "AppleInsider",
+      "author": "news@appleinsider.com (AppleInsider Staff)",
+      "title": "Daily deals Dec. 12: $150 off M2 MacBook Air, Up to 31% off Blue microphones, up to $300 off storage, more",
+      "description": "Monday's best deals include $50 off AirPods Pro Gen 2, $50 off the Magic Keyboard for 12.9-inch iPad Pro, $90 off the Razer Viper wireless mouse, and much more.Best Deals for December 12Every day, AppleInsider scours online retailers daily to find discounts a…",
+      "url": "https://appleinsider.com/articles/22/12/12/daily-deals-dec-12-150-off-m2-macbook-air-up-to-31-off-blue-microphones-up-to-300-off-storage-more",
+      "imgUrl": "https://photos5.appleinsider.com/gallery/51896-102942-deals-dec-12-xl.jpg",
+      "publishedAt": "2022-12-12T14:10:10Z",
+      "content": "Best Deals for December 12\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nMonday's best deals include $50 off AirPods Pro Gen 2, $50 off the Magic Keyboa… [+695 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "AppleInsider",
+      "author": "news@appleinsider.com (Andrew O'Hara)",
+      "title": "Eufy scandal intensifies, Ikea's new AirPlay speaker, & much more smart home news",
+      "description": "In this week's Homekit Insider Podcast your hosts discuss the ongoing Eufy's ongoing privacy scandal, Ikea's newest Sonos speaker collaboration, and provide gift recommendations for the holidays.HomeKit InsiderIt's been a busy week in the smart home world, wi…",
+      "url": "https://appleinsider.com/articles/22/12/12/eufy-scandal-intensifies-ikeas-new-airplay-speaker-much-more-smart-home-news",
+      "imgUrl": "https://photos5.appleinsider.com/gallery/46889-91403-HKI-Header-xl.jpg",
+      "publishedAt": "2022-12-12T15:15:46Z",
+      "content": "HomeKit Insider\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nIn this week's Homekit Insider Podcast your hosts discuss the ongoing Eufy's ongoing priva… [+1985 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "AppleInsider",
+      "author": "news@appleinsider.com (Sponsored Content)",
+      "title": "How to keep your Mac optimized -- the ultimate guide",
+      "description": "When we get a new Mac, it's easy to be mesmerized by how clean and blazing fast everything feels. You can get this back, with some regular maintenance. Here's how.CleanMyMac X by MacPawWith that new Mac, apps open instantly, and there's plenty of storage for …",
+      "url": "https://appleinsider.com/articles/22/12/12/how-to-keep-your-mac-optimized----the-ultimate-guide",
+      "imgUrl": "https://photos5.appleinsider.com/gallery/51823-102771-MacPaw-12-xl.jpg",
+      "publishedAt": "2022-12-12T13:30:58Z",
+      "content": "CleanMyMac X by MacPaw\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nWhen we get a new Mac, it's easy to be mesmerized by how clean and blazing fast eve… [+12506 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Elespanol.com",
+      "author": "Adrián Raya",
+      "title": "Después de Xiaomi, llega la semana grande de Oppo con un plegable y su primer wearable de salud",
+      "description": "Oppo presentará esta semana sus nuevos dispositivos, incluyendo un nuevo plegable y un concepto de wearable diseñado para la salud.",
+      "url": "https://www.elespanol.com/elandroidelibre/noticias-y-novedades/20221212/despues-xiaomi-semana-grande-oppo-plegable-wearable/725427484_0.html",
+      "imgUrl": "https://s1.eestatic.com/2022/12/12/elandroidelibre/725437778_229408978_600x315.jpg",
+      "publishedAt": "2022-12-12T10:21:08Z",
+      "content": "El último mes del año suele ser importante para los fabricantes chinos, que organizan grandes eventos para presentar su gama de productos para el año siguiente. Es el caso de Xiaomi y su Xiaomi 13, p… [+2112 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "CNET",
+      "author": "Sareena Dayaram",
+      "title": "Should You Upgrade to the iPhone 14? Here's Who Should and Shouldn't Upgrade - CNET",
+      "description": "This guide should help you determine whether it makes sense for you to upgrade to the iPhone 14 or wait for a future iPhone.",
+      "url": "https://www.cnet.com/tech/mobile/should-you-upgrade-to-iphone-14-heres-who-should-and-who-shouldnt/",
+      "imgUrl": "https://www.cnet.com/a/img/resize/b585d188b7169c646f86dd2d2310e31c69c867e6/hub/2022/10/14/38009847-a014-44c1-bf05-df960e02afde/iphone-14-plus-0298.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2022-12-12T13:00:32Z",
+      "content": "This story is part of Focal Point iPhone 2022, CNET's collection of news, tips and advice around Apple's most popular product. \r\nApple's iPhone 14, iPhone 14 Plus and iPhone 14 Pro phones have been o… [+17240 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Yanko Design",
+      "author": "Srishti Mitra",
+      "title": "Top 10 product designs for the ultimate coffee lovers",
+      "description": "Top 10 product designs for the ultimate coffee loversAs much as I hate to admit it, I absolutely cannot start my day without a freshly brewed cup of coffee! It’s the boost of...",
+      "url": "https://www.yankodesign.com/2022/12/11/top-10-product-designs-for-the-ultimate-coffee-lovers/",
+      "imgUrl": "https://www.yankodesign.com/images/design_news/2022/11/products-for-coffee-lovers/top_10_products_coffee_lovers_yanko_design_hero.jpeg",
+      "publishedAt": "2022-12-12T00:30:04Z",
+      "content": "As much as I hate to admit it, I absolutely cannot start my day without a freshly brewed cup of coffee! Its the boost of energy, dose of motivation, and rush of serotonin that I need every morning. A… [+11409 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Journal du geek",
+      "author": "Tristan",
+      "title": "Apple : les informations se précisent autour de la puce M2 Max",
+      "description": "Apple pourrait lancer de nouveaux appareils en mars, avec une puce M2 Max plus puissante qu'annoncée initialement. \nApple : les informations se précisent autour de la puce M2 Max",
+      "url": "https://www.journaldugeek.com/2022/12/12/apple-les-informations-se-precisent-autour-de-la-puce-m2-max/",
+      "imgUrl": "https://www.journaldugeek.com/content/uploads/2022/12/macbook-pro-m1-pro.jpg",
+      "publishedAt": "2022-12-12T10:00:24Z",
+      "content": "Apple pourrait lancer de nouveaux appareils en mars, avec une puce M2 Max plus puissante qu'annoncée initialement.Apple na encore fait aucune annonce officielle, mais comme bien souvent avec la marqu… [+2888 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Journal du geek",
+      "author": "Tristan",
+      "title": "Le PDG d’Epic Games veut continuer sa guerre contre Apple",
+      "description": "Apple et Epic Games se sont lancés une vraie bataille juridique. Tim Sweeney, patron d'Epic Games veut aller \"jusqu'au bout\". \nLe PDG d’Epic Games veut continuer sa guerre contre Apple",
+      "url": "https://www.journaldugeek.com/2022/12/12/le-pdg-depic-games-veut-continuer-sa-guerre-contre-apple/",
+      "imgUrl": "https://www.journaldugeek.com/content/uploads/2022/12/free-fortnite-apple-epic-games.jpg",
+      "publishedAt": "2022-12-12T08:30:48Z",
+      "content": "Apple et Epic Games se sont lancés une vraie bataille juridique. Tim Sweeney, patron d'Epic Games veut aller \"jusqu'au bout\".Le grand patron d’Epic Games, Tim Sweeney, a assuré vouloir continuer sa b… [+2643 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Journal du geek",
+      "author": "Thomas Estimbre",
+      "title": "Xiaomi 13 et 13 Pro : Apple et Samsung peuvent craindre ces smartphones",
+      "description": "Xiaomi a présenté ce week-end ses nouveaux smartphones premium, les Xiaomi 13 et 13 Pro. Le fabricant chinois marque les esprits avec une gamme prête à faire de l’ombre aux iPhone 13 et futurs Galaxy S23.\nXiaomi 13 et 13 Pro : Apple et Samsung peuvent craindr…",
+      "url": "https://www.journaldugeek.com/2022/12/12/xiaomi-13-et-13-pro-apple-et-samsung-peuvent-craindre-ces-smartphones/",
+      "imgUrl": "https://www.journaldugeek.com/content/uploads/2022/12/xiaomi-13-4.jpg",
+      "publishedAt": "2022-12-12T10:30:56Z",
+      "content": "Xiaomi a présenté ce week-end ses nouveaux smartphones premium, les Xiaomi 13 et 13 Pro. Le fabricant chinois marque les esprits avec une gamme prête à faire de lombre aux iPhone 13 et futurs Galaxy … [+6406 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Journal du geek",
+      "author": "Olivier",
+      "title": "Stax, le nouveau portefeuille de cryptos de Ledger avec écran E-Ink",
+      "description": "Pour éviter les conséquences désastreuses des faillites des plateformes d'hébergement de cryptos, la solution naturelle est de garder ses bitcoins bien au chaud sur soi ! C'est évidemment possible, il existe de nombreux portefeuilles physiques. Le spécialiste…",
+      "url": "https://www.journaldugeek.com/2022/12/12/stax-le-nouveau-portefeuille-de-cryptos-de-ledger-avec-ecran-e-ink/",
+      "imgUrl": "https://www.journaldugeek.com/content/uploads/2022/12/sans-titre2.png",
+      "publishedAt": "2022-12-12T08:00:37Z",
+      "content": "Pour éviter les conséquences désastreuses des faillites des plateformes d'hébergement de cryptos, la solution naturelle est de garder ses bitcoins bien au chaud sur soi ! C'est évidemment possible, i… [+1749 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Journal du geek",
+      "author": "Amandine Jonniaux",
+      "title": "Sur iPhone, l’abonnement Twitter Blue va coûter plus cher",
+      "description": "Elon Musk va enfin autoriser l'abonnement Blue sur iOS, mais il coûtera plus cher.\nSur iPhone, l’abonnement Twitter Blue va coûter plus cher",
+      "url": "https://www.journaldugeek.com/2022/12/12/sur-iphone-labonnement-twitter-blue-va-couter-plus-cher/",
+      "imgUrl": "https://www.journaldugeek.com/content/uploads/2022/11/blue-1.jpg",
+      "publishedAt": "2022-12-12T09:30:19Z",
+      "content": "Elon Musk va enfin autoriser l'abonnement Blue sur iOS, mais il coûtera plus cher.Twitter continue sa transformation. L’ère Musk est désormais bien installée, et les changements de cap se multiplient… [+2442 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Journal du geek",
+      "author": "Journal du Geek",
+      "title": "En 2022, Boursorama récidive et reste la banque la moins chère de France",
+      "description": "Pour la 15ème année consécutive, Boursorama se positionne comme la banque la moins chère de France. En 2022, chacun des 4,4 millions de clients a déboursé environ 7,79 euros de frais bancaires.\nEn 2022, Boursorama récidive et reste la banque la moins chère de…",
+      "url": "https://www.journaldugeek.com/2022/12/12/en-2022-boursorama-recidive-et-reste-la-banque-la-moins-chere-de-france/",
+      "imgUrl": "https://www.journaldugeek.com/content/uploads/2022/04/boursorama-banque-carte-metal.jpg",
+      "publishedAt": "2022-12-12T15:10:47Z",
+      "content": "Pour la 15ème année consécutive, Boursorama se positionne comme la banque la moins chère de France. En 2022, chacun des 4,4 millions de clients a déboursé environ 7,79 euros de frais bancaires.Les an… [+4237 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Applesfera.com",
+      "author": "Miguel López",
+      "title": "Tiendas y fábricas en todas partes: los planes de Apple para India son mucho más ambiciosos de lo que creíamos según nuevos rumores",
+      "description": "Llevamos unos años en los que India se ha ido posicionando para ser otro gran foco de Apple, especialmente ahora que China pierde su estatus de fábrica del mundo por varios factores. Y ya sabemos que ha habido datos sobre apertura de tiendas y fábricas, pero …",
+      "url": "https://www.applesfera.com/apple-1/tiendas-fabricas-todas-partes-planes-apple-para-india-mucho-ambiciosos-que-creiamos-nuevos-rumores",
+      "imgUrl": "https://i.blogs.es/0576cf/apple-store/840_560.jpeg",
+      "publishedAt": "2022-12-12T15:30:05Z",
+      "content": "Llevamos unos años en los que India se ha ido posicionando para ser otro gran foco de Apple, especialmente ahora que China pierde su estatus de fábrica del mundo por varios factores. Y ya sabemos que… [+1597 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Applesfera.com",
+      "author": "Jesús Quesada",
+      "title": "Regala el HomePod mini de Apple: tiene descuento en MediaMarkt y llega antes de Navidad",
+      "description": "A diferencia de los altavoces de Amazon y Google, encontrar rebajas del HomePod mini de Apple no es tan fácil o habitual. Uno de los sitios donde puede encontrarse con descuento es a través del outlet de MediaMarkt en eBay. De hecho, ahora mismo está de ofert…",
+      "url": "https://www.applesfera.com/seleccion/regala-homepod-mini-apple-tiene-descuento-mediamarkt-llega-antes-navidad",
+      "imgUrl": "https://i.blogs.es/dd6776/homepod-mini-02/840_560.jpg",
+      "publishedAt": "2022-12-12T06:04:26Z",
+      "content": "A diferencia de los altavoces de Amazon y Google, encontrar rebajas del HomePod mini de Apple no es tan fácil o habitual. Uno de los sitios donde puede encontrarse con descuento es a través del outle… [+1557 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Applesfera.com",
+      "author": "Miguel López",
+      "title": "Tres meses gratis de Apple TV+: así puedes canjearlos si tienes un televisor de LG",
+      "description": "LG y Apple han decidido hacer un regalo navideño a sus clientes. Ambas compañías han acordado ofrecer tres meses gratuitos de Apple TV+ a quienes tengan un televisor de LG en su casa, pudiendo así disfrutar de sus series y películas originales sin pagar nada …",
+      "url": "https://www.applesfera.com/servicios-apple/tres-meses-gratis-apple-tv-asi-puedes-canjearlos-tienes-televisor-lg",
+      "imgUrl": "https://i.blogs.es/15f4bd/hero/840_560.jpeg",
+      "publishedAt": "2022-12-12T11:07:07Z",
+      "content": "LG y Apple han decidido hacer un regalo navideño a sus clientes. Ambas compañías han acordado ofrecer tres meses gratuitos de Apple TV+ a quienes tengan un televisor de LG en su casa, pudiendo así di… [+1200 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Applesfera.com",
+      "author": "Miguel López",
+      "title": "El MacBook Air se subirá al carro del OLED en 2024, según Ross Young",
+      "description": "Una de las mejores formas de saber acerca de los dispositivos de Apple es a través de sus proveedores de pantallas, y una de las mejores formas de saber acerca de los proveedores de pantallas de Apple es mirando qué dice Ross Young. Y hoy Ross Young ha afirma…",
+      "url": "https://www.applesfera.com/portatil/macbook-air-se-subira-al-carro-oled-2024-ross-young",
+      "imgUrl": "https://i.blogs.es/b6b1d7/captura-de-pantalla-2022-12-12-a-las-17.04.30/840_560.jpeg",
+      "publishedAt": "2022-12-12T16:15:41Z",
+      "content": "Una de las mejores formas de saber acerca de los dispositivos de Apple es a través de sus proveedores de pantallas, y una de las mejores formas de saber acerca de los proveedores de pantallas de Appl… [+1320 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Applesfera.com",
+      "author": "David Bernal Raspall",
+      "title": "Cómo consultar la batería de los dispositivos bluetooth conectados a nuestro iPhone",
+      "description": "El Bluetooth es una tecnología de conectividad inalámbrica que nos permite interconectar dispositivos electrónicos de manera sencilla y eficiente. La mayoría de nosotros usamos el Bluetooth a diario, ya sea para conectar nuestro iPhone a unos AirPods, a altav…",
+      "url": "https://www.applesfera.com/tutoriales/como-consultar-bateria-dispositivos-bluetooth-conectados-a-nuestro-iphone",
+      "imgUrl": "https://i.blogs.es/091d67/hero/840_560.jpeg",
+      "publishedAt": "2022-12-12T07:38:21Z",
+      "content": "El Bluetooth es una tecnología de conectividad inalámbrica que nos permite interconectar dispositivos electrónicos de manera sencilla y eficiente. La mayoría de nosotros usamos el Bluetooth a diario,… [+2653 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Applesfera.com",
+      "author": "Miguel López",
+      "title": "Steam detecta dos nuevos Mac en sus bases de datos: alguien los ha usado para llenar una encuesta de la aplicación",
+      "description": "Si has usado nunca la plataforma de Steam para comprar y ejecutar juegos, sabrás que de vez en cuando la aplicación te pide que envíes (de forma anónima) las especificaciones de tu Mac. Es algo completamente opcional, pero es el modo que tienen en Steam para …",
+      "url": "https://www.applesfera.com/sobremesa/steam-detecta-dos-nuevos-mac-sus-bases-datos-alguien-ha-usado-para-llenar-encuesta-aplicacion",
+      "imgUrl": "https://i.blogs.es/1677f0/mac-studio/840_560.jpeg",
+      "publishedAt": "2022-12-12T08:41:58Z",
+      "content": "Si has usado nunca la plataforma de Steam para comprar y ejecutar juegos, sabrás que de vez en cuando la aplicación te pide que envíes (de forma anónima) las especificaciones de tu Mac. Es algo compl… [+1624 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Theregister.com",
+      "author": "Richard Currie",
+      "title": "OK, we know iPhones are expensive but... $11 a month for Twitter Blue on iOS?",
+      "description": "Elon Musk's meeting with Tim Cook at Apple HQ went well, we see\nComment You would have thought that after Twitter chief Elon Musk and Tim Cook schmoozed a bit at Apple's headquarters, the two would've reached some sort of common ground following that little \"…",
+      "url": "https://www.theregister.com/2022/12/12/twitter_blue_ios_relaunch/",
+      "imgUrl": "https://regmedia.co.uk/2022/11/30/shutterstock_twitterkeyboard.jpg",
+      "publishedAt": "2022-12-12T14:30:13Z",
+      "content": "Comment You would have thought that after Twitter chief Elon Musk and Tim Cook schmoozed a bit at Apple's headquarters, the two would've reached some sort of common ground following that little \"misu… [+2379 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Pitchfork",
+      "author": "Pitchfork",
+      "title": "SZA, Lana Del Rey, Kate NV, and More: This Week’s Pitchfork Selects Playlist",
+      "description": "Our weekly playlist highlights songs that our writers, editors, and contributors are listening to on repeat",
+      "url": "https://pitchfork.com/news/sza-lana-del-rey-kate-nv-this-week-pitchfork-selects/",
+      "imgUrl": "https://media.pitchfork.com/photos/63939a006bff496656dc0d17/16:9/w_1280,c_limit/Selects%20Web%20(16).jpg",
+      "publishedAt": "2022-12-12T15:07:58Z",
+      "content": "The staff of Pitchfork listens to a lot of new music. A lot of it. On any given day our writers, editors, and contributors go through an imposing number of new releases, giving recommendations to eac… [+1014 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Jalopnik",
+      "author": "Andy Kalmowitz",
+      "title": "What’s the Worst Car You’ve Ever Driven?",
+      "description": "As automotive enthusiasts, we dream about driving some of the best cars in the world, but the reality is not always that kind. We have all probably driven our fair share of terrible vehicles in our time as gearheads, and that’s what leads us to today’s questi…",
+      "url": "https://jalopnik.com/what-s-the-worst-car-you-ve-ever-driven-1849881481",
+      "imgUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/38793a56908e44d31b607d1b656c6eb3.jpg",
+      "publishedAt": "2022-12-12T14:05:00Z",
+      "content": "As automotive enthusiasts, we dream about driving some of the best cars in the world, but the reality is not always that kind. We have all probably driven our fair share of terrible vehicles in our t… [+1507 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Ritholtz.com",
+      "author": "Barry Ritholtz",
+      "title": "10 Monday AM Reads",
+      "description": "My back-to-work morning train WFH reads: • The sneaky economics of Ticketmaster: Ticketmaster’s maligned fees and customer service issues are again under the microscope. Will American music fans ever see anything better? (The Hustle) • What Is the Bond Market…",
+      "url": "https://ritholtz.com/2022/12/1o-monday-am-reads/",
+      "imgUrl": "https://ritholtz.com/wp-content/uploads/2022/12/since1950.jpeg",
+      "publishedAt": "2022-12-12T11:55:58Z",
+      "content": "The sneaky economics of Ticketmaster: Ticketmasters maligned fees and customer service issues are again under the microscope. Will American music fans ever see anything better? (The Hustle)\r\n What Is… [+2973 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Xataka Android",
+      "author": "Pepu Ricca",
+      "title": "Xiaomi Buds 4: los Buds de Xiaomi se renuevan con audio Hi-Fi completo y un nuevo códec que minimiza la latencia",
+      "description": "La nueva generación de los auriculares inalámbricos de Xiaomi ya está aquí. Tras los Xiaomi Redmi Buds 3 Pro, la firma china ha lanzado los Buds 4, una evolución clara respecto a sus predecesores. Destacan por su cancelación de ruido activa y el modo doble tr…",
+      "url": "https://www.xatakandroid.com/gadgets-android/xiaomi-buds-4-caracteristicas-precio-ficha-tecnica",
+      "imgUrl": "https://i.blogs.es/7394fe/xiaomi-buds-4-portadas/840_560.jpg",
+      "publishedAt": "2022-12-12T08:49:16Z",
+      "content": "La nueva generación de los auriculares inalámbricos de Xiaomi ya está aquí. Tras los Xiaomi Redmi Buds 3 Pro, la firma china ha lanzado los Buds 4, una evolución clara respecto a sus predecesores. De… [+2303 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Xataka Android",
+      "author": "Álvaro García M.",
+      "title": "MIUI 14 es oficial: novedades y móviles Xiaomi que actualizarán a Android 13 con esta versión",
+      "description": "Tras varios meses de rumores e incluso un evento de presentación cancelado, los Xiaomi 13 y Xiaomi 13 Pro son ya oficiales. Y no han venido solos, ya que también ha sido presentada la nueva versión del sistema operativo MIUI basada en Android 13. Sí, MIUI 14 …",
+      "url": "https://www.xatakandroid.com/sistema-operativo/miui-14-oficial-novedades-moviles-xiaomi-que-actualizaran-a-android-13-esta-version",
+      "imgUrl": "https://i.blogs.es/30dacb/miui-14/840_560.jpg",
+      "publishedAt": "2022-12-12T07:55:24Z",
+      "content": "Tras varios meses de rumores e incluso un evento de presentación cancelado, los Xiaomi 13 y Xiaomi 13 Pro son ya oficiales. Y no han venido solos, ya que también ha sido presentada la nueva versión d… [+4305 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Android Authority",
+      "author": "Hadlee Simons",
+      "title": "What wearables does the Android Authority team use every day? (2022 Edition)",
+      "description": "We've already looked at the smartphones Android Authority team members use every day, but what about wearables?",
+      "url": "https://www.androidauthority.com/android-authority-wearables-2022-3241252/",
+      "imgUrl": "https://www.androidauthority.com/wp-content/uploads/2022/08/Samsung-Galaxy-Watch-5-44mm-size.jpg",
+      "publishedAt": "2022-12-12T15:00:42Z",
+      "content": "Were primarily a smartphone-focused website here at Android Authority, but wearables are a pretty important category for us as well. As a result, we review loads of fitness trackers and smartwatches … [+8369 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Android Authority",
+      "author": "Hadlee Simons",
+      "title": "You told us: Your phone charging times vary wildly",
+      "description": "We asked you how long it takes for your phone to fully charge. The results are finally in, and it turns out things could be much faster.",
+      "url": "https://www.androidauthority.com/how-long-phone-charging-time-poll-results-3250009/",
+      "imgUrl": "https://www.androidauthority.com/wp-content/uploads/2022/09/samsung-galaxy-s22-ultra-charging.jpg",
+      "publishedAt": "2022-12-12T09:58:11Z",
+      "content": "Smartphone charging speeds have increased dramatically in the last few years, but not every brand has hopped aboard the faster charging train though.\r\nThat got us thinking about how long it takes for… [+2515 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Presse-citron",
+      "author": "Setra",
+      "title": "Apple sécurise enfin iCloud, le FBI s’inquiète",
+      "description": "Début 2023, vous pourrez profiter d’une protection avancée sur iCloud. Une fois activée, celle-ci chiffrera vos photos ainsi que vos sauvegardes.",
+      "url": "https://www.presse-citron.net/apple-securise-enfin-icloud-le-fbi-sinquiete/",
+      "imgUrl": "https://www.presse-citron.net/app/uploads/2022/09/iphone-14-plus-gamme.jpg",
+      "publishedAt": "2022-12-12T08:00:07Z",
+      "content": "Afin de se démarquer des autres marques qui fabriquent des smartphones sous Android, Apple a fait de la sécurité et de la protection de la vie privée son cheval de bataille. Après avoir mis fin au pi… [+3475 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Presse-citron",
+      "author": "Hadrien Augusto",
+      "title": "Les principales banques françaises terminent 2022 dans le flou",
+      "description": "Les trois principales banques françaises sont dans le flou en cette fin d’année.",
+      "url": "https://www.presse-citron.net/pourquoi-la-confiance-dans-les-banques-francaises-baisse/",
+      "imgUrl": "https://www.presse-citron.net/app/uploads/2020/05/banque-domiciliation.jpg",
+      "publishedAt": "2022-12-12T12:30:52Z",
+      "content": "Le rebond des établissements bancaires français comme BNP Paribas, Société Générale et Crédit Agricole naura pas duré longtemps. Après une année 2022 en forte baisse, le cours de leur action a stagné… [+4652 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "BGR",
+      "author": "José Adorno",
+      "title": "iPhone buyers prefer mobile carriers to Apple Stores to purchase a new phone",
+      "description": "When a new iPhone is released, where do you purchase it? While some would say “the Apple Store,” this is in fact the second place …\nThe post iPhone buyers prefer mobile carriers to Apple Stores to purchase a new phone appeared first on BGR.",
+      "url": "https://bgr.com/tech/iphone-buyers-prefer-mobile-carriers-to-apple-stores-to-purchase-a-new-phone/",
+      "imgUrl": "https://bgr.com/wp-content/uploads/2022/12/3J4A8306.jpg?quality=82&strip=all",
+      "publishedAt": "2022-12-12T16:08:01Z",
+      "content": "When a new iPhone is released, where do you purchase it? While some would say “the Apple Store,” this is in fact the second place most buyers go to. According to a survey conducted by CIRP (via 9to5M… [+1737 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "BGR",
+      "author": "José Adorno",
+      "title": "OLED MacBook Air and iPad Pro expected to launch in 2024",
+      "description": "DSCC analyst Ross Young shares once again when he expects Apple to introduce an OLED MacBook Air and OLED iPad Pro models. According to him, …\nThe post OLED MacBook Air and iPad Pro expected to launch in 2024 appeared first on BGR.",
+      "url": "https://bgr.com/tech/oled-macbook-air-and-ipad-pro-expected-to-launch-in-2024/",
+      "imgUrl": "https://bgr.com/wp-content/uploads/2022/08/2022-macbook-air-8.jpg?quality=82&strip=all",
+      "publishedAt": "2022-12-12T14:00:03Z",
+      "content": "DSCC analyst Ross Young shares once again when he expects Apple to introduce an OLED MacBook Air and OLED iPad Pro models. According to him, the Cupertino company will roll out the OLED technology to… [+1816 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Bothsidesofthetable.com",
+      "author": "Mark Suster",
+      "title": "Praying to the God of Valuation",
+      "description": "Something happened in the past 7 years in the startup and venture capital world that I hadn’t experienced since the late 90’s — we all began praying to the God of Valuation. It wasn’t always like…",
+      "url": "https://bothsidesofthetable.com/praying-to-the-god-of-valuation-7f6758ba3b16",
+      "imgUrl": "https://miro.medium.com/max/1200/1*6jnzEciOWUIZ82L16eYgiA.jpeg",
+      "publishedAt": "2022-12-12T00:55:56Z",
+      "content": "Something happened in the past 7 years in the startup and venture capital world that I hadnt experienced since the late 90s we all began praying to the God of Valuation. It wasnt always like this and… [+10522 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Espinof.com",
+      "author": "Alberto García",
+      "title": "MediaMarkt inicia la campaña de Navidad con este descuentazo de 300 euros: la Smart TV OLED de Sony es un chollazo que viene con tecnologías Dolby y Bravia XR",
+      "description": "Noche Buena está a la vuelta de la esquina y MediaMarkt lo sabe. La campaña de Navidad inicia una buena cantidad de ofertas en televisores, y si estás buscando algo bueno, bonito y relativamente económico, la Smart TV Sony 55A80J OLED se queda casi a su preci…",
+      "url": "https://www.espinof.com/seleccion/mediamarkt-inicia-campana-navidad-este-descuentazo-300-euros-smart-tv-oled-sony-chollazo-que-viene-tecnologias-dolby-bravia-xr",
+      "imgUrl": "https://i.blogs.es/95a743/sony-55a80j-oled/840_560.jpeg",
+      "publishedAt": "2022-12-12T09:31:58Z",
+      "content": "Noche Buena está a la vuelta de la esquina y MediaMarkt lo sabe. La campaña de Navidad inicia una buena cantidad de ofertas en televisores, y si estás buscando algo bueno, bonito y relativamente econ… [+1910 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Espinof.com",
+      "author": "Albertini",
+      "title": "Lista completa de nominados a los Globos de Oro 2023: 'Almas en pena de Inisherin' y 'Colegio Abbott' parten como favoritas en los premios de cine y televisión",
+      "description": "Comienza la cuenta atrás para unos de los premios más conocidos y a su vez más controvertidos de los últimos años. Tras un año \"castigados\", vuelven a televisión los Globos de Oro con su edición 2023. La ceremonia, presentada por Jerrod Carmichael se realizar…",
+      "url": "https://www.espinof.com/globos-de-oro/globos-oro-2023-lista-completa-nominados-a-premios-prensa-extranjera-hollywood",
+      "imgUrl": "https://i.blogs.es/c4bbe7/globos-oro-2023-nominados/840_560.jpeg",
+      "publishedAt": "2022-12-12T14:27:15Z",
+      "content": "Comienza la cuenta atrás para unos de los premios más conocidos y a su vez más controvertidos de los últimos años. Tras un año \"castigados\", vuelven a televisión los Globos de Oro con su edición 2023… [+4719 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "iMore",
+      "author": "Stephen Warwick",
+      "title": "100 exclusive Apple-authorized resellers to open in India, says report",
+      "description": "A new report says Tata Group plans to open 100 Apple-exclusive stores across India as an authorized reseller.",
+      "url": "https://www.imore.com/apple/100-exclusive-apple-authorised-resellers-to-open-in-india-says-report",
+      "imgUrl": "https://cdn.mos.cms.futurecdn.net/wAsg7LTwmBwooiju7NaWx-1200-80.jpg",
+      "publishedAt": "2022-12-12T10:33:36Z",
+      "content": "A new report says that India's Tata Group is set to open 100 Apple-authorized reseller locations through its Infiniti Retail branch nationwide.\r\nAccording to \"two people aware of the development\", Ec… [+1659 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "iMore",
+      "author": "oliver@monkeymanmedia.com (Oliver Haslam)",
+      "title": "Your Apple silicon Mac can play games at 4K 60 FPS, here's how",
+      "description": "Linux fans can now make use of an Apple silicon GPU driver to get the best gaming performance on their M-series Mac.",
+      "url": "https://www.imore.com/gaming/your-apple-silicon-mac-can-play-games-at-4k-60-fps-heres-how",
+      "imgUrl": "https://cdn.mos.cms.futurecdn.net/PSduGktcRAs2FpftSfwrFf-1200-80.png",
+      "publishedAt": "2022-12-12T13:57:02Z",
+      "content": "The team behind Asahi Linux have announced an early alpha version of native graphics support for Apple silicon-based Macs. That means that people can install the drive and enjoy GPU acceleration when… [+1773 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "iMore",
+      "author": "oliver@monkeymanmedia.com (Oliver Haslam)",
+      "title": "Unreleased Mac gaming performance put to the test as devices pop up in Steam report",
+      "description": "Apple appears to be testing the gaming performance of unannounced Macs after they appeared in a report of devices used with Steam.",
+      "url": "https://www.imore.com/mac/unreleased-mac-gaming-performance-put-to-the-test-as-devices-pop-up-in-steam-report",
+      "imgUrl": "https://cdn.mos.cms.futurecdn.net/MwJG2YMAWsED8MZuJAPCem-1200-80.jpeg",
+      "publishedAt": "2022-12-12T11:01:11Z",
+      "content": "Apple appears to be testing two unreleased Macs with Valve's Steam gaming platform, with the machines appearing in a report shared by the company.\r\nA survey of machines used to play games via Steam d… [+1640 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "iMore",
+      "author": "Stephen Warwick",
+      "title": "iPhone 15 and beyond could see Apple triple production in India",
+      "description": "“They’re looking to scale up the volumes that they make from India... it can rise by more than three times what they aim to make this year\"",
+      "url": "https://www.imore.com/iphone/iphone-15-and-beyond-could-see-apple-triple-production-in-india",
+      "imgUrl": "https://cdn.mos.cms.futurecdn.net/NCp3wpqNrtNeWRDHkoKFe5-1200-80.jpg",
+      "publishedAt": "2022-12-12T11:12:52Z",
+      "content": "A new report claims Apple could triple the production of iPhone models in India over the next two years, as the company continues to expand local manufacturing and reduce its reliance on China.\r\n\"App… [+1725 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "iMore",
+      "author": "Stephen Warwick",
+      "title": "iPhone 14 Plus lack of interest crushes manufacturer revenue",
+      "description": "A new report says Apple supply chain partner Pegatron saw a clear decline in November revenue in part due to a lack of interest in the iPhone 14 Plus.",
+      "url": "https://www.imore.com/iphone/iphone-14/iphone-14-plus-lack-of-interest-crushes-manufacturer-revenue",
+      "imgUrl": "https://cdn.mos.cms.futurecdn.net/yWKc5HdwZDvzHpxKckrVDH-1200-80.jpg",
+      "publishedAt": "2022-12-12T14:19:09Z",
+      "content": "A severe lack of demand for Apple's iPhone 14 Plus was a \"crucial factor\" in one of Apple's manufacturing partners reporting a clear decline in its November revenues, according to a new report. \r\nNew… [+1697 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "iMore",
+      "author": "Stephen Warwick",
+      "title": "Eve rolls out major smart home upgrade as it becomes first company to ship Matter firmware updates",
+      "description": "Eve is today rolling out a firmware update for Eve Energy, Door & Window, and Eve Motion.",
+      "url": "https://www.imore.com/smart-home/eve-rolls-out-major-smart-home-upgrade-as-it-becomes-first-company-to-ship-matter-firmware-updates",
+      "imgUrl": "https://cdn.mos.cms.futurecdn.net/g7rDajdo6qrVuF6roH6XpF-1200-80.jpg",
+      "publishedAt": "2022-12-12T14:29:48Z",
+      "content": "Eve has today rolled out the very first firmware update for its customers that will see some of its current products upgraded with Matter smart home standard compatibility at no extra cost. \r\nEve Ene… [+1774 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "iMore",
+      "author": "Tammy Rogers",
+      "title": "The perfect gift for the holidays this year could be an iPad Mini - especially with this massive discount",
+      "description": "Struggling to know what to get someone for Christmas? This iPad Mini deal could be just the ticket.",
+      "url": "https://www.imore.com/ipad/the-perfect-gift-for-the-holidays-this-year-could-be-an-ipad-mini-especially-with-this-massive-discount",
+      "imgUrl": "https://cdn.mos.cms.futurecdn.net/FpdbNkHnDVAZthDFxCRfji-1200-80.jpg",
+      "publishedAt": "2022-12-12T13:00:08Z",
+      "content": "As Christmas draws ever closer, so does the need to find a gift in the nick of time - thankfully, there are loads of deals on the hottest kit. One such deal this Christmas period is this $100 saving … [+1173 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "MacRumors",
+      "author": "Mitchel Broussard",
+      "title": "Deals: Apple Pencil 2 on Sale for Best-Ever Price of $89.00 ($40 Off)",
+      "description": "The Apple Pencil 2 is once again available for its all-time low price today on Amazon, priced at $89.00, down from $129.00. The accessory is in stock and available to deliver as soon as December 17 for Prime delivery, or December 20 - 21 for free delivery.\n\n\n…",
+      "url": "https://www.macrumors.com/2022/12/12/deals-apple-pencil-2-best-ever/",
+      "imgUrl": "https://images.macrumors.com/t/6zj459e1N2pDc0Bl8zqT-kPwMCo=/1600x/article-new/2021/11/apple-pencil-pink-holiday.jpg",
+      "publishedAt": "2022-12-12T15:31:11Z",
+      "content": "The Apple Pencil 2 is once again available for its all-time low price today on Amazon, priced at $89.00, down from $129.00. The accessory is in stock and available to deliver as soon as December 17 f… [+991 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "MacRumors",
+      "author": "Juli Clover",
+      "title": "Eve Rolling Out Matter Firmware Update for Select Products",
+      "description": "Smart home accessory company Eve Systems today announced the rollout of an over-the-air firmware update that will bring Matter support to the recent Eve Energy, Eve Door and Window, and Eve Motion devices.\n\n\n\n\n\nThe optional Matter update will be available on …",
+      "url": "https://www.macrumors.com/2022/12/12/eve-matter-firmware-update/",
+      "imgUrl": "https://images.macrumors.com/t/h-TsLCGmbW88cPsRsdHsXht-GVk=/2000x/article-new/2022/12/eve-matter.jpg",
+      "publishedAt": "2022-12-12T14:30:00Z",
+      "content": "Smart home accessory company Eve Systems today announced the rollout of an over-the-air firmware update that will bring Matter support to the recent Eve Energy, Eve Door and Window, and Eve Motion de… [+990 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Les Numériques",
+      "author": "Benjamin Polge",
+      "title": "Actualité : Apple autorise ses salariés à parler du harcèlement et de la discrimination au travail",
+      "description": "Apple vient de réviser ses accords de non-divulgation (NDA). Les salariés sont désormais autorisés à parler publiquement du harcèlement et de la discrimination sur leur lieu de travail.",
+      "url": "https://www.lesnumeriques.com/vie-du-net/apple-va-autoriser-ses-salaries-a-parler-du-harcelement-et-de-la-discrimination-au-travail-n200521.html",
+      "imgUrl": "https://cdn.lesnumeriques.com/optim/news/20/200521/647d1866-apple-va-autoriser-ses-salaries-a-parler-du-harcelement-et-de-la-discrimination-au-travail__1200_630__overflow.jpeg",
+      "publishedAt": "2022-12-12T15:13:00Z",
+      "content": "Harcèlement et abus : le pas en avant d'Apple.\r\n© Getty Images / Future Publishing\r\nUn progrès social conséquent dans le milieu de la tech aux États-Unis. Les salariés d'Apple vont pouvoir aborder pu… [+3014 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Les Numériques",
+      "author": "David Lefevre",
+      "title": "Actualité : Hyundai Ioniq 6 : les prix dévoilés",
+      "description": "La très attendue berline électrique Ioniq 6, que nous ferons bientôt entrer dans nos colonnes de tests, débute sa commercialisation. Le constructeur dévoile ses tarifs avec une étiquette de départ fixée à 52 200 €.",
+      "url": "https://www.lesnumeriques.com/voiture/hyundai-ioniq-6-les-prix-devoiles-n200545.html",
+      "imgUrl": "https://cdn.lesnumeriques.com/optim/news/20/200545/65b40cfd-hyundai-ioniq-6-les-prix-devoiles__1200_630__0-44-1789-983.jpeg",
+      "publishedAt": "2022-12-12T14:53:00Z",
+      "content": "Découverte récemment lors d'une première soirée de présentation à laquelle nous étions conviés, la nouvelle berline 100 % électrique Hyundai Ioniq 6 ne cesse de faire parler d'elle. En effet, ses 614… [+2190 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Les Numériques",
+      "author": "Nicolas Guyot",
+      "title": "Fujifilm X-H2 et X-H2S : des hybrides APS-C au top de leur forme !",
+      "description": "Plébiscités par Les Numériques et le marché, les hybrides X-H2 et X-H2S affichent des performances exceptionnelles aussi bien en photo qu'en vidéo. Portrait de surdoués de l'image.",
+      "url": "https://www.lesnumeriques.com/publicite/fujifilm-x-h2-et-x-h2s-des-hybrides-aps-c-au-top-de-leur-forme-200177.html",
+      "imgUrl": "https://cdn.lesnumeriques.com/optim/native/20/200177/ec171827-fujifilm-x-h2-et-x-h2s-des-hybrides-aps-c-au-top-de-leur-forme__1200_630__311-169-1916-1011.jpeg",
+      "publishedAt": "2022-12-12T09:00:00Z",
+      "content": "Plébiscités par Les Numériques et le marché, les hybrides X-H2 et X-H2S affichent des performances exceptionnelles aussi bien en photo qu'en vidéo. Portrait de surdoués de l'image.\r\nIl y a dix ans to… [+7618 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Les Numériques",
+      "author": "Corentin Bechade",
+      "title": "Actualité : Xiaomi officialise les 13 et 13 Pro, des smartphones labellisés Leica",
+      "description": "Les nouveaux mobiles haut de gamme Xiaomi sont arrivés… en Chine pour le moment. Les Xiaomi 13 et 13 Pro embarquent une fiche technique haut de gamme, des modules photo en partenariat avec Leica et la toute dernière puce Qualcomm.",
+      "url": "https://www.lesnumeriques.com/telephone-portable/xiaomi-officialise-les-13-et-13-pro-des-smartphones-labellises-leica-n200499.html",
+      "imgUrl": "https://cdn.lesnumeriques.com/optim/news/20/200499/8430c684-xiaomi-13-et-13-pro-le-constructeur-chinois-officialise-ses-smartphones-labellises-leica_png__1200_630__overflow.jpg",
+      "publishedAt": "2022-12-12T07:55:00Z",
+      "content": "Xiaomi a enfin présenté ses tout nouveaux mobiles haut de gamme. D'abord prévue pour le 1er décembre, la sortie des Xiaomi 13 et 13 Pro a été repoussée au 11 décembre 2022 suite à un deuil national d… [+3176 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Xatakamovil.com",
+      "author": "Samuel Fernández",
+      "title": "Las plataformas no funcionan como el cine ni se miden como el cine, y Wall Street al fin se ha dado cuenta",
+      "description": "Hace ya tiempo que las plataformas lo cambiaron todo para siempre, aunque su irrupción todavía sigue provocando cambios estructurales en un mercado que está lejos de desaparecer pero que desde luego no volverá a ser nunca como era. Las ventanas de exposición,…",
+      "url": "https://www.xatakamovil.com/streaming/plataformas-no-funcionan-como-cine-se-miden-como-cine-wall-street-al-fin-se-ha-dado-cuenta",
+      "imgUrl": "https://i.blogs.es/8a5268/miercoles/840_560.jpg",
+      "publishedAt": "2022-12-12T10:18:32Z",
+      "content": "Hace ya tiempo que las plataformas lo cambiaron todo para siempre, aunque su irrupción todavía sigue provocando cambios estructurales en un mercado que está lejos de desaparecer pero que desde luego … [+4160 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Omgubuntu.co.uk",
+      "author": "Joey Sneddon",
+      "title": "Linux Kernel 6.1 Released, This is What’s New",
+      "description": "The Linux kernel 6.1 release is full of welcome changes, which we look at in this post. From new hardware support to networking, security, and performance.\nThis post, Linux Kernel 6.1 Released, This is What’s New is from OMG! Ubuntu!. Do not reproduce elsewhe…",
+      "url": "https://www.omgubuntu.co.uk/2022/12/linux-kernel-6-1-released-new-features",
+      "imgUrl": "https://149366088.v2.pressablecdn.com/wp-content/uploads/2022/12/linux-kernel-6.1-released.jpg",
+      "publishedAt": "2022-12-12T01:09:40Z",
+      "content": "Linus Torvalds is giving Santa Claus competition as the FOSS-lovin’ Finn is putting the best possible present under the tree this festive season: a brand new Linux kernel.\r\nYes, Linux kernel 6.1 is h… [+5067 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Rolling Stone",
+      "author": "Jon Dolan",
+      "title": "A Boogie Wit Da Hoodie’s ‘Me vs. Myself’ Is Musically Pleasant But Topically Tedious",
+      "description": "Hip-hop is moving beyond the melodic style he does so well. But the Bronx rapper is staying with what's worked in the past.",
+      "url": "https://www.rollingstone.com/music/music-album-reviews/a-boogie-wit-da-hoodies-me-vs-myself-1234643375/",
+      "imgUrl": "https://www.rollingstone.com/wp-content/uploads/2022/12/boogie-with-a-hoodie.jpg?w=1600&h=900&crop=1",
+      "publishedAt": "2022-12-12T16:07:43Z",
+      "content": "It’s been a little over two years since A Boogie wit Da Hoodie released his third official album, Artist 2.0. In an interview with Apple Music, he said that caring for his mother, who had cancer, as … [+4329 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Playpcesor.com",
+      "author": "Esor Huang",
+      "title": "Evernote 新增快速插入筆記連結、切換筆記與檔案連結預覽功能",
+      "description": "最近更新到 Evernote 10.50.9 的電腦版本，加入了一個期待已久的功能，終於可以在一則筆記內，透過搜尋快速找到其他筆記並插入記事連結 ，而不一定要到其他筆記中去複製記事連結再貼上。",
+      "url": "https://www.playpcesor.com/2022/12/evernote.html",
+      "imgUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgkWvwTWJZnJmOcCKyLNfKSTupcSFpJdG7HWWR31G2gXjqibNRdAhJGfDfl0YP7AHRfMRnMEeU3RLB1dymf0MEUQQW_BzxbNZ79Jx0FRt6I7qoI2Nj908RA3flcWHa82CTKCG-lO_8QnX99oEHZhLs9GJRtHnmwETkHKNszDSi9ZRninDtSmes=w1200-h630-p-k-no-nu",
+      "publishedAt": "2022-12-12T14:33:00Z",
+      "content": "最近更新到 Evernote 10.50.9 的電腦版本，加入了一個期待已久的功能，終於可以在一則筆記內，透過搜尋快速找到其他筆記並插入記事連結，而不一定要到其他筆記中去複製記事連結再貼上。\r\n雖然在我的實際使用經驗中（包含 Notion、 Logseq 等工具），還是會有不少時刻是需要先找到並確認筆記，然後才複製記事連結，再插入其他筆記中。\r\n但增加一個快速搜尋就能直接插入記事連結，還是可以在… [+1556 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Caschys Blog",
+      "author": "Felix Frank",
+      "title": "Eve: Matter-Update rollt ab heute im Early-Access-Programm",
+      "description": "Eve hat Matter versprochen und Eve liefert nun auch als einer der ersten Hersteller ab. Man zündet da noch nicht zum Start den Turbo, sondern beginnt mit einem Early-Access-Programm – die Gründe liegen auf der Hand. Bereits bekannt war, dass...Zum Beitrag: Ev…",
+      "url": "https://stadt-bremerhaven.de/eve-matter-update-rollt-ab-heute-im-early-access-programm/",
+      "imgUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/SCR-20221212-lz9.jpg",
+      "publishedAt": "2022-12-12T14:57:04Z",
+      "content": "Eve hat Matter versprochen und Eve liefert nun auch als einer der ersten Hersteller ab. Man zündet da noch nicht zum Start den Turbo, sondern beginnt mit einem Early-Access-Programm – die Gründe lieg… [+4164 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Frandroid",
+      "author": "Marie Lizak",
+      "title": "Ce SUV hybride fait tomber un record : une autonomie jamais vu en 100 % électrique",
+      "description": "Le géant chinois BYD qui arrive en Europe lève le voile sur un tout nouveau modèle hybride rechargeable baptisé Frigate 07. Décliné en plusieurs versions à deux et quatre roues motrices, ce dernier affiche une grande autonomie en mode 100 % électrique : jusqu…",
+      "url": "https://www.frandroid.com/produits-android/automobile/voitures-electriques/1562812_ce-suv-hybride-fait-tomber-un-record-une-autonomie-jamais-vu-en-100-electrique",
+      "imgUrl": "https://images.frandroid.com/wp-content/uploads/2022/12/byd-frigate-07-2.jpeg",
+      "publishedAt": "2022-12-12T10:01:38Z",
+      "content": "Le géant chinois BYD qui arrive en Europe lève le voile sur un tout nouveau modèle hybride rechargeable baptisé Frigate 07. Décliné en plusieurs versions à deux et quatre roues motrices, ce dernier a… [+4588 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Frandroid",
+      "author": "Ulrich Rozier",
+      "title": "Les annonces de Xiaomi qu’il faut retenir : Xiaomi 13, Mix Fold 2, Buds 4, Sound 4, Mini Host et MIUI 14",
+      "description": "Xiaomi a fait le plein d'annonces. En plus du Xiaomi 13, très attendu, il y a du pliant, des écouteurs, une montre, une enceinte, un routeur et un mini PC. Hier, s’est tenue une conférence Xiaomi en Chine. Comme à son habitude, le groupe chinois n’a pas annon…",
+      "url": "https://www.frandroid.com/marques/xiaomi/1562734_les-annonces-de-xiaomi-quil-fallait-retenir-xiaomi-13-mix-fold-2-buds-4-sound-4-mini-host-et-miui-14",
+      "imgUrl": "https://images.frandroid.com/wp-content/uploads/2022/12/xiaomi-13-frandroid-1366-2000.jpg",
+      "publishedAt": "2022-12-12T07:24:44Z",
+      "content": "Xiaomi a fait le plein d'annonces. En plus du Xiaomi 13, très attendu, il y a du pliant, des écouteurs, une montre, une enceinte, un routeur et un mini PC.\r\nHier, sest tenue une conférence Xiaomi en … [+5688 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Wwwhatsnew.com",
+      "author": "Nelson Herrera",
+      "title": "Instafest: para crear carteles de los artistas que más escuches",
+      "description": "Somos muchos los que nos la pasamos buena parte del día escuchando la música de nuestros cantantes y géneros favoritos. En este contexto, algo interesante de seguro has llegado a pensar si eres un buen fan de la música, es poder llevar a cabo carteles, estilo…",
+      "url": "https://wwwhatsnew.com/2022/12/12/instafest-para-crear-carteles-de-los-artistas-que-mas-escuches/",
+      "imgUrl": "https://wwwhatsnew.com/wp-content/uploads/2022/12/Instafest-para-crear-carteles-de-los-artistas-que-mas-escuches.jpg",
+      "publishedAt": "2022-12-12T05:00:24Z",
+      "content": "Somos muchos los que nos la pasamos buena parte del día escuchando la música de nuestros cantantes y géneros favoritos. En este contexto, algo interesante de seguro has llegado a pensar si eres un bu… [+2066 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Lifehacker.ru",
+      "author": "Дарья Костючкова",
+      "title": "Подкаст «Лайфхак»: как за 7 минут настроиться на рабочий лад",
+      "description": "Утром первым делом выполните несколько простых действий — и увидите, как продуктивность и настрой меняются в лучшую сторону.",
+      "url": "https://lifehacker.ru/lifehack-654/",
+      "imgUrl": "https://cdn.lifehacker.ru/wp-content/uploads/2020/07/Podkast-Lajfxak_1591010628-1140x570_1595232756.jpg",
+      "publishedAt": "2022-12-12T15:30:13Z",
+      "content": ". . , , . , 7 . , .\r\n «» , : Apple Podcasts, Google Podcasts, YouTube, «», «», «», Castbox, Pocket CastsSoundStream.\r\n , ."
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Srad.jp",
+      "author": "nagazou",
+      "title": "Apple、iCloudへのE2E暗号化の範囲を拡大",
+      "description": "Appleは12月7日、クラウド内のユーザーデータ保護のため三つのセキュリティ機能を導入すると発表した。「iCloud」で提供される「Advanced Data Protection」機能では、クラウドに保存したデータをエンドツーエンド暗号化（E2EE）で保護し、信頼できるデバイスでしか復号できないようにする（Appleリリース、CNET）。 \n\n二つ目は「iMessage」の新たな「Contact Key Verification」機能では、第三者がクラウドサーバーに侵入してメッセージを傍受しようとした際に自動…",
+      "url": "https://apple.srad.jp/story/22/12/11/1232233/",
+      "imgUrl": "https://srad.jp/static/topics/macosx_64.png",
+      "publishedAt": "2022-12-12T04:06:00Z",
+      "content": "Apple127iCloudAdvanced Data ProtectionE2EEAppleCNETiMessageContact Key Verification2\r\nAdvanced Data Protection7Apple Beta Software Program2023Contact Key Verification20232023"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Caschys Blog",
+      "author": "André Westphal",
+      "title": "Will Smith verschenkt 2 Monate Apple TV+ (auch für Wiederkehrer)",
+      "description": "Vor kurzem war es Selina Gomez, die 2 Monate Apple TV+ gratis verteilte – allerdings nur für neue Abonnenten, die noch keine Trial bzw. kein Gratis-Abo zuvor genutzt hatten. Jetzt haut Will Smith wiederum zwei Monate des Streaming-Dienstes aus Cupertino...Zum…",
+      "url": "https://stadt-bremerhaven.de/will-smith-verschenkt-2-monate-apple-tv-auch-fuer-wiederkehrer/",
+      "imgUrl": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/100322_Apple_Original_Films_Emancipation_Premiere_Big_Image_01_big_image_post.jpg.medium_2x.jpg",
+      "publishedAt": "2022-12-12T09:30:40Z",
+      "content": "Vor kurzem war es Selina Gomez, die 2 Monate Apple TV+ gratis verteilte – allerdings nur für neue Abonnenten, die noch keine Trial bzw. kein Gratis-Abo zuvor genutzt hatten. Jetzt haut Will Smith wie… [+940 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Ifanr.com",
+      "author": "何, 嘉昕",
+      "title": "早报 | 通信行程卡正式下线/iPhone 15 Ultra 售价或破万/小米 13 系列正式发布",
+      "description": "仿制版新冠口服药流入国内\n小米迷你主机首发价 3699 元#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博",
+      "url": "https://www.ifanr.com/1526690",
+      "imgUrl": "https://s3.ifanr.com/wp-content/uploads/2022/12/6-10.jpg",
+      "publishedAt": "2022-12-12T01:04:01Z",
+      "content": "<ul><li></li><li> 13 </li><li>iPhone 15 Ultra </li><li></li><li> 3699 </li><li></li><li> Mac Steam</li><li></li><li>Chrome Passkeys</li><li> VR </li><li>Sonos </li><li>2022 </li><li></li><li> 2</li><… [+1485 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Quartz India",
+      "author": "Ananya Bhattacharya",
+      "title": "Elon Musk is making iPhone users pay for his fight with Apple",
+      "description": "As Twitter Blue plans its relaunch, Apple users face a surcharge.Read more...",
+      "url": "https://qz.com/twitter-blue-iphone-apple-elon-musk-tim-cook-1849881239",
+      "imgUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/84e2844bb0ed3751546b095cc66fa0fe.jpg",
+      "publishedAt": "2022-12-12T10:55:00Z",
+      "content": "As Twitter Blue plans its relaunch, Apple users face a surcharge.\r\nStarting today (Dec. 12), iOS users will have to dole out $11 for the controversial subscription service, which earns users a blue t… [+2559 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Yahoo Entertainment",
+      "author": "Brian Sozzi",
+      "title": "The biggest risks to stock market in 2023: Deutsche Bank survey",
+      "description": "The risks to the outlook for stocks are plentiful in 2023, warns Deutsche Bank.",
+      "url": "https://finance.yahoo.com/news/biggest-risks-stock-market-in-2023-deutsche-bank-111818650.html",
+      "imgUrl": "https://s.yimg.com/ny/api/res/1.2/FR6VauTAO1glIYMroEg3bA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODk-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/39309750-7a0e-11ed-aff7-f32b2fdb5052",
+      "publishedAt": "2022-12-12T11:18:18Z",
+      "content": "Markets remain on edge regarding the outlook for inflation, as seen in the hit to stocks last week amid a hotter than expected read on the Producer Price Index (PPI).\r\nFurthermore, this week's Federa… [+2220 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Yahoo Entertainment",
+      "author": "Dani Romero",
+      "title": "Stock market news live updates: Stock futures edge higher ahead of inflation data, Fed meeting",
+      "description": "U.S. stock futures edge higher on Monday morning ahead of inflation data out this week and the Federal Reserve’s last policy meeting of the year.",
+      "url": "https://finance.yahoo.com/news/stock-market-news-live-updates-december-12-125213269.html",
+      "imgUrl": "https://s.yimg.com/ny/api/res/1.2/p62usVa2hqXtdQUQtO1A7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/437b4360-74f3-11ed-9f72-6f254acdc943",
+      "publishedAt": "2022-12-12T12:52:13Z",
+      "content": "U.S. stock futures edged higher Monday morning ahead of a busy week for investors with key inflation data and the Fed's last policy meeting of the year serving as highlights.\r\nFutures tied to the S&a… [+2096 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "Yahoo Entertainment",
+      "author": "Rick Newman",
+      "title": "Carvana: Yahoo Finance's Worst Company of the Year",
+      "description": "The online car-buying site could be a great business, if not for overexpansion and a badly timed acquisition.",
+      "url": "https://finance.yahoo.com/news/carvana-yahoo-finances-worst-company-of-the-year-140051155.html",
+      "imgUrl": "https://s.yimg.com/ny/api/res/1.2/u9fEAnLTWfrQfg2djFk0Eg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTI-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/9091a2b0-7800-11ed-bf2d-1eb08ddad5da",
+      "publishedAt": "2022-12-12T14:00:51Z",
+      "content": "Its been a crap year for stocks, with the overall market down 17%. At Carvana, the wheels came off. The online used-car merchant lost 97% of its value through Dec. 9, with the stock down a like amoun… [+10368 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news"
+      },
+      "name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "December 2024 set as date for universal phone charger in EU",
+      "description": "New portable electronic devices sold in the EU will have to use a USB Type-C charger by autumn 2024.",
+      "url": "https://www.bbc.co.uk/news/technology-63907702",
+      "imgUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/30EB/production/_127932521_gettyimages-1243780414.jpg",
+      "publishedAt": "2022-12-12T13:13:45Z",
+      "content": "The European Union has given phone manufacturers a deadline of 28 December 2024 to adopt a common charging cable.\r\nThe EU previously agreed new portable electronic devices would have to use a USB Typ… [+1759 chars]"
+    },
+    {
+      "source": {
+        "id": null
+      },
+      "name": "GSMArena.com",
+      "author": "Chip",
+      "title": "Top 10 trending phones of week 49",
+      "description": "Xiaomi's 13 series only made their official debut at the very end of the week 49, but the teaser campaign was strong enough to catapult the vanilla phone to the top of our trending chart.\n\nSamsung's Galaxy S22 Ultra steps down to second place, while Realme 10…",
+      "url": "https://www.gsmarena.com/top_10_trending_phones_of_week_49-news-56836.php",
+      "imgUrl": "https://fdn.gsmarena.com/imgroot/news/19/04/top10-trending-phones/-952x498w6/gsmarena_003.jpg",
+      "publishedAt": "2022-12-12T01:37:01Z",
+      "content": "Xiaomi's 13 series only made their official debut at the very end of the week 49, but the teaser campaign was strong enough to catapult the vanilla phone to the top of our trending chart.\r\nSamsung's … [+671 chars]"
+    },
+    {
+      "title": "The biggest risks to stock market in 2023: Deutsche Bank survey",
+      "content": "Markets remain on edge regarding the outlook for inflation, as seen in the hit to stocks last week amid a hotter than expected read on the Producer Price Index (PPI).\\r\\nFurthermore, this week's Federa… [+2220 chars]\"",
+      "imgUrl": "https://s.yimg.com/ny/api/res/1.2/FR6VauTAO1glIYMroEg3bA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODk-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/39309750-7a0e-11ed-aff7-f32b2fdb5052",
+      "slug": "The-biggest-risks-to-stock-market-in-2023:-Deutsche-Bank-survey",
+      "createdAt": "2022-12-14T21:46:44.121Z",
+      "updatedAt": "2022-12-14T21:46:44.121Z",
+      "authorId": null,
+      "id": 6
+    },
+    {
+      "title": "YouTube's Apple TV App is Crashing and Causing Issues For Users After Latest Update",
+      "content": "YouTube's Apple TV app is crashing and causing some issues for users when they try to exit out of the app, according to user reports online.\\r\\nOn Twitter and Reddit, users report that when trying to e… [+2014 chars]\"",
+      "imgUrl": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/10/iPhone-14-helped-TSMC.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "slug": "YouTube's-Apple-TV-App-is-Crashing-and-Causing-Issues-For-Users-After-Latest-Update",
+      "createdAt": "2022-12-14T21:52:22.256Z",
+      "updatedAt": "2022-12-14T21:52:22.256Z",
+      "id": 7
+    }
+  ]
+}
